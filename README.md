@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/p/e59265230495](https://medium.com/p/e59265230495)
 
-- 💬 Ask me about **TailwindCSS,Javascript,React,Typescript**
+- 💬 Ask me about **Javascript,React,Node.js,Express.js,Typescript,TailwindCSS**
 
 - 📫 How to reach me **fdev@fatihdonmezdev.com**
 
