@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Fullstack E-commerce](https://github.com/fatihdonmezdev/sisterslab-fullstack-nextjs-ecommerce)
 
-- 🌱 I’m currently learning **Backend Development, Node.js,Express.js,Nest.js**
+- 🌱 I’m currently learning **Java, Spring Boot**
 
 - 👨‍💻 All of my projects are available at [www.fatihdonmezdev.com](www.fatihdonmezdev.com)
 
 - 📝 I regularly write articles on [https://medium.com/p/e59265230495](https://medium.com/p/e59265230495)
 
-- 💬 Ask me about **Javascript,React,Node.js,Express.js,Typescript,TailwindCSS**
+- 💬 Ask me about **Javascript,React,Java,Spring Boot,Typescript,TailwindCSS**
 
 - 📫 How to reach me **fdev@fatihdonmezdev.com**
 
