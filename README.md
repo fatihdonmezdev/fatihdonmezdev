@@ -9,9 +9,12 @@
 
 - 📝 I regularly write articles on [https://medium.com/p/e59265230495](https://medium.com/p/e59265230495)
 
-- 💬 Ask me about **Javascript,React,Java,Spring Boot,Typescript,TailwindCSS**
+- 💬 Ask me about **Javascript,React,Java,Spring Boot, Spring JDBC, Spring Data JPA**
 
 - 📫 How to reach me **fdev@fatihdonmezdev.com**
+
+- 🌱 Different Technologies I use **Maven,Flyway,PostgreSQL,**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
