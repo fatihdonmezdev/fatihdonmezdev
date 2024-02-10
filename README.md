@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Fullstack E-commerce](https://github.com/fatihdonmezdev/sisterslab-fullstack-nextjs-ecommerce)
 
-- 🌱 I’m currently learning **Java, Spring Boot**
+- 🌱 I’m currently learning **Java, Spring Boot, Spring JDBC, Spring Data JPA**
 
 - 👨‍💻 All of my projects are available at [www.fatihdonmezdev.com](www.fatihdonmezdev.com)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **fdev@fatihdonmezdev.com**
 
-- 🌱 Different Technologies I use **Maven,Flyway,PostgreSQL,**
+- 🌱 Different Technologies I use are **Docker,Maven,Flyway,PostgreSQL,AWS Elastic Beanstalk, AWS RDS, AWS EC2, Github Actions for CI/CD**
 
 
 <h3 align="left">Connect with me:</h3>
