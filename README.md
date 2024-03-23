@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working on [Fullstack E-commerce](https://github.com/fatihdonmezdev/sisterslab-fullstack-nextjs-ecommerce)
 
-- 🌱 I’m currently learning **Java, Spring Boot, Spring JDBC, Spring Data JPA**
+- 🌱 I’m currently learning **Next.js, Typescript, Node.js, Express.js**
 
 - 👨‍💻 All of my projects are available at [www.fatihdonmezdev.com](www.fatihdonmezdev.com)
 
 - 📝 I regularly write articles on [https://medium.com/p/e59265230495](https://medium.com/p/e59265230495)
 
-- 💬 Ask me about **Javascript,React,Java,Spring Boot, Spring JDBC, Spring Data JPA**
+- 💬 Ask me about **Javascript,React,Next.js,Typescript**
 
 - 📫 How to reach me **fdev@fatihdonmezdev.com**
 
-- 🌱 Different Technologies I use are **Docker,Maven,Flyway,PostgreSQL,AWS Elastic Beanstalk, AWS RDS, AWS EC2, Github Actions for CI/CD**
+- 🌱 Different Technologies I use are **Docker,PostgreSQL,AWS Elastic Beanstalk, AWS RDS, AWS EC2, Github Actions for CI/CD**
 
 
 <h3 align="left">Connect with me:</h3>
