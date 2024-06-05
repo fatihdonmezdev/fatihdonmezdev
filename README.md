@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, Typescript, Node.js, Express.js**
 
-- 👨‍💻 All of my projects are available at [fatihdonmezdev](www.fatihdonmezdev.com)
+- 👨‍💻 All of my projects are available at www.fatihdonmezdev.com
 
 - 📝 I regularly write articles on https://medium.com/@fatihdonmezdev
 
