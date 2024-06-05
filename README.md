@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [fatihdonmezdev](www.fatihdonmezdev.com)
 
-- 📝 I regularly write articles on [https://medium.com/p/e59265230495](https://medium.com/p/e59265230495)
+- 📝 I regularly write articles on https://medium.com/@fatihdonmezdev
 
 - 💬 Ask me about **Javascript,React,Next.js,Typescript**
 
